@@ -2,5 +2,5 @@
 
 echo 'hello world'
 echo 'Welcome to Git'
-
+echo 'Commiting...'
 
